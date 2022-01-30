@@ -6,14 +6,17 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Preparing..</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Preparing.." />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+         这是一个为抑郁症患者留有纪念的地方，目前还在准备中..
+        </p>
+        <p className="description">
+         It's a place to remember for those with depression, and it's still being prepared...
         </p>
       </main>
 
